@@ -112,8 +112,41 @@ Create records in Route53 for tooling and wordpress
 ## Project Screenshots
 
 ![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/01.png)
+
 ![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/02.png)
+
 ![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/03.png)
+
 ![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/04.png)
+
 ![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/05.png)
+
 ![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/06.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/07.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/08.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/09.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/10.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/11.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/12.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/13.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/14.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/15.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/16.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/17.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/18.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/19.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/20.png)
