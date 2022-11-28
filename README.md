@@ -105,3 +105,6 @@ sudo yum install -y mod_ssl
 Create Target group
 Create Load Balancer
 Create Launch Template
+Create AutoScaling Group from the Launch Template
+Create records in Route53 for tooling and wordpress
+
