@@ -150,3 +150,43 @@ Create records in Route53 for tooling and wordpress
 ![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/19.png)
 
 ![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/20.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/21.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/22.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/23.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/24.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/25.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/26.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/27.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/28.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/29.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/30.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/31.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/32.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/33.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/34.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/35.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/36.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/37.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/38.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/39.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/40.png)
