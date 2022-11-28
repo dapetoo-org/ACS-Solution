@@ -190,3 +190,9 @@ Create records in Route53 for tooling and wordpress
 ![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/39.png)
 
 ![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/40.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/41.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/42.png)
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/43.png)
