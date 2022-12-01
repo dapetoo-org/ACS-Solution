@@ -1,9 +1,18 @@
 
-# Project Title
+# AWS CLOUD SOLUTION FOR 2 COMPANY WEBSITES USING A REVERSE PROXY TECHNOLOGY
 
-A brief description of what this project does and who it's for
+![Project Architecture](https://darey.io/wp-content/uploads/2021/07/tooling_project_15.png)
 
-- Create VPC
+You will build a secure infrastructure inside AWS VPC (Virtual Private Cloud) network for a fictitious company (Choose an interesting name for it) that uses WordPress CMS for its main business website, and a Tooling Website (https://github.com/<your-name>/tooling) for their DevOps team. As part of the company’s desire for improved security and performance, a decision has been made to use a reverse proxy technology from NGINX to achieve this.
+
+**Steps**
+- Properly configure your AWS account and Organization Unit
+- Create an AWS Master account. (Also known as Root Account), within the Root account, create a sub-account and name it DevOps. (You will need another email address to complete this), within the Root account, create an AWS Organization Unit (OU). Name it Dev. (We will launch Dev resources in there)
+- Move the DevOps account into the Dev OU.
+- Login to the newly created AWS account using the new email address.
+- Create a free domain name for your fictitious company at Freenom domain registrar here.
+- Create a hosted zone in AWS, and map it to your free domain from Freenom. Watch how to do that here
+- Create VPC (Virtual Private Cloud)
 - Edit VPC and enable DNS Hostnames
 - Create Internet Gateway and attach to the VPC created earlier
 - Create subnets in the VPC (2 public and 4 private subnets)
@@ -110,6 +119,8 @@ Create records in Route53 for tooling and wordpress
 
 
 ## Project Screenshots
+
+![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/project15-AWS-Organization.png)
 
 ![Project Screenshots](https://github.com/scholarship-task/ACS-Solution/blob/main/screenshots/01.png)
 
